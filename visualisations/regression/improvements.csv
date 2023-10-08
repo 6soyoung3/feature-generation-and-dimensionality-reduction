@@ -1,0 +1,11 @@
+,ISOMAP,LLE,LPP,KPCA,ICA,UMAP,PCA,SVD
+Credit,90,8,11,0,0,21,50,50
+Admission,0,0,0,0,0,0,0,0
+Facebook,120,119,120,40,40,120,40,40
+ForestFires,50,31,50,10,20,12,10,10
+PremiumPrice,60,60,60,0,20,60,20,20
+HousePrice,200,20,30,30,10,82,30,110
+WineQuality,0,0,0,0,0,0,0,0
+BankHappiness,0,0,0,0,10,0,0,0
+NYCPropertySales,6,0,30,0,40,20,40,38
+OnlineNewsPopularity,0,0,140,86,50,33,100,100
