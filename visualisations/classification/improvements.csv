@@ -1,0 +1,11 @@
+,ISOMAP,LLE,LPP,KPCA,ICA,UMAP,PCA,SVD
+AcademicSuccess,0,0,0,0,0,0,0,0
+Glass,0,0,0,0,10,0,10,10
+Grade,30,10,30,0,10,0,10,10
+Heart,20,50,60,0,30,23,40,20
+Parkinsons,0,11,20,30,10,1,0,0
+StayHospital,0,306,270,0,120,37,0,0
+Zoo,0,0,20,0,0,0,0,0
+DryBean,0,0,0,0,10,0,0,0
+BuyCoupon,0,0,10,0,60,0,51,0
+FakeWebsite,4,0,30,9,20,0,10,0
